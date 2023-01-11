@@ -1,0 +1,24 @@
+.calendar {
+    margin: auto;
+}
+
+.birthday{
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.greeting {
+    text-align: center;
+}
+
+.profileImage {
+    width: 100px;
+    margin: auto;
+    display: block;
+}
+.profile{
+    text-align:center;
+}
